@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with time-management lol
 - 💬 Ask me about anything
 - 📫 How to reach me: GitHub, email
-- ⚡ Fun fact: I'm very into anime
+- ⚡ Fun fact: I'm into anime
 
 <!--
 **kelokchan/kelokchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
