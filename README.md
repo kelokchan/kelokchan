@@ -1,11 +1,12 @@
 ### Bello everyone! 👋
 
-- 🔭 I’m currently working mostly on React Native
+- 🔭 I’m currently working 100% on React
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on anything front-end related
 - 🤔 I’m looking for help with time-management lol
 - 💬 Ask me about anything
 - 📫 How to reach me: GitHub, email
+- 😄 Pronouns: You only live once
 - ⚡ Fun fact: I'm into anime
 
 <!--
